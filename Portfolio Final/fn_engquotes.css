@@ -3,11 +3,11 @@
 /*
    New Perspectives on Khanh Pham Portfolio
    Final Portfolio
-   Contect Style Sheet
+   Service Style Sheet
    Author: Khanh Pham
    Date:   12/3/18
 
-   Filename:         fn_contact.css
+   Filename:         fn_service.css
 
 */
 
@@ -19,22 +19,8 @@
    =============================================
 */
 
-.locate {
-	display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%;
-}
 
-.locate {
-	border-radius: 50%;
-}
-address {
-	font-family: "Times New Roman", Times, serif;
-	font-size:1.2em;
-	text-align: center;
-}
-	
+
 
 
 /* =============================================
